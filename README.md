@@ -1,5 +1,5 @@
 # Ark-FPS-Booster
-This code should be used for low-end computers, the code will reduce lag you get from ark at the cost of the overall quality of how the game looks.
+This code should be used for low-end computers, the code will reduce lag you get from ark at the cost of the overall quality of how the game looks. Also allows you to see perfectly fine while drinking beer.
 
 You would have to first start finding your in game files of Ark Survival Evolved which it should look something like this \Steam\steamapps\common\ARK\Engine\Config.
 Then once your in the Config file locate the ConsoleVariables.ini file.
